@@ -76,7 +76,7 @@ In this task, you will create and configure Azure AD users.
 
 1. In the **InPrivate** browser window, on the Azure AD blade, scroll down to the **Manage** section, click **User settings**, and note that you do not have permissions to modify any configuration options.
 
-1. In the **InPrivate** browser window, on the Azure AD blade, in the **Manage** section, click **Users**, and then click **+ New user**.
+1. Switch to the previous odl user account, on the Azure AD blade, in the **Manage** section, click **Users**, and then click **+ New user**.
 
 1. Create a new user with the following settings (leave others with their defaults):
 
@@ -226,7 +226,7 @@ In this task, you will create Azure AD guest users and grant them access to reso
 
 1. Navigate back to the **Users - All users** blade, and then click **+ New guest user**.
 
-1. Create a new guest user with the following settings (leave others with their defaults):
+1. Select Invite User and Create a new guest user with the following settings (leave others with their defaults):
 
     | Setting | Value |
     | --- | --- |

@@ -278,7 +278,7 @@ In this task, you will configure and test routing between the two spoke virtual 
 
    > **Note**: Now you need to create and configure user defined routes on the spoke virtual networks.
 
-1. In the Azure portal, search and select **Route tables** and, on the **Route tables** blade, click **+ Add**.
+1. In the Azure portal, search and select **Route tables** and, on the **Route tables** blade, click **+ Create**.
 
 1. Create a route table with the following settings (leave others with their default values):
 
@@ -320,7 +320,7 @@ In this task, you will configure and test routing between the two spoke virtual 
 
 1. Click **OK**
 
-1. Navigate back to **Route tables** blade and click **+ Add**.
+1. Navigate back to **Route tables** blade and click **+ Create**.
 
 1. Create a route table with the following settings (leave others with their default values):
 
@@ -387,7 +387,7 @@ In this task, you will configure and test routing between the two spoke virtual 
 
 In this task, you will implement an Azure Load Balancer in front of the two Azure virtual machines in the hub virtual network
 
-1. In the Azure portal, search and select **Load balancers** and, on the **Load balancers** blade, click **+ Add**.
+1. In the Azure portal, search and select **Load balancers** and, on the **Load balancers** blade, click **+ Create**.
 
 1. Create a load balancer with the following settings (leave others with their default values):
 
@@ -492,7 +492,7 @@ In this task, you will implement an Azure Application Gateway in front of the tw
 
     > **Note**: This subnet will be used by the Azure Application Gateway instances, which you will deploy later in this task. The Application Gateway requires a dedicated subnet of /27 or larger size.
 
-1. In the Azure portal, search and select **Application Gateways** and, on the **Application Gateways** blade, click **+ Add**.
+1. In the Azure portal, search and select **Application Gateways** and, on the **Application Gateways** blade, click **+ Create**.
 
 1. On the **Basics** tab of the **Create an application gateway** blade, specify the following settings (leave others with their default values):
 

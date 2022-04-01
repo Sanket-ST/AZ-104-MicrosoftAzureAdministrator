@@ -71,7 +71,7 @@ In this task, you will deploy two virtual machines that will be used to test dif
 
 In this task, you will create a recovery services vault.
 
-1. In the Azure portal, search for and select **Recovery Services vaults** and, on the **Recovery Services vaults** blade, click **+ New**.
+1. In the Azure portal, search for and select **Recovery Services vaults** and, on the **Recovery Services vaults** blade, click **+ Create**.
 
 1. On the **Create Recovery Services vault** blade, specify the following settings:
 

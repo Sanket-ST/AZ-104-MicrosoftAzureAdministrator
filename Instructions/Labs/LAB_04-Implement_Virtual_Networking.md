@@ -179,7 +179,7 @@ In this task, you will configure network security groups in order to allow for r
 
     >**Note**: This is expected, because public IP addresses of the Standard SKU, by default, require that the network interfaces to which they are assigned are protected by a network security group. In order to allow Remote Desktop connections, you will create a network security group explicitly allowing inbound RDP traffic from Internet and assign it to network interfaces of both virtual machines.
 
-1. In the Azure portal, search for and select **Network security groups**, and, on the **Network security groups** blade, click **+ Add**.
+1. In the Azure portal, search for and select **Network security groups**, and, on the **Network security groups** blade, click **+ Create**.
 
 1. Create a network security group with the following settings (leave others with their default values):
 
@@ -234,7 +234,7 @@ In this task, you will configure network security groups in order to allow for r
 
 In this task, you will configure DNS name resolution within a virtual network by using Azure private DNS zones.
 
-1. In the Azure portal, search for and select **Private DNS zones** and, on the **Private DNS zones** blade, click **+ Add**.
+1. In the Azure portal, search for and select **Private DNS zones** and, on the **Private DNS zones** blade, click **+ Create**.
 
 1. Create a private DNS zone with the following settings (leave others with their default values):
 
@@ -290,7 +290,7 @@ In this task, you will configure external DNS name resolution by using Azure pub
 
 1. Use the domain name search to identify a domain name which is not in use.
 
-1. In the Azure portal, search for and select **DNS zones** and, on the **DNS zones** blade, click **+ Add**.
+1. In the Azure portal, search for and select **DNS zones** and, on the **DNS zones** blade, click **+ Create**.
 
 1. Create a DNS zone with the following settings (leave others with their default values):
 
